@@ -5,7 +5,7 @@ demo:
 
 # Copilot for Microsoft Word
 
-### Environment Setup
+## Environment Setup
 
 The sample documents can be found in the MS-4012 GitHub repository under [**All Files > Demo Sample Docs**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Allfiles/Demo%20Sample%20Docs).
 
@@ -19,7 +19,7 @@ The specific files being used in this exercise are:
 > [!NOTE]
 > It can take up to 10 minutes for these files to sync to your OneDrive. To expedite this process, you can open the document and then close it, which will add it to your Most Recently Used (MRU) list.
 
-### Talking Points
+## Talking Points
 
 In the Interactive Experience, we brainstormed new app or service ideas, created brand identity and marketing assets, and analyzed the competitive landscape. But how can we take this a step further?
 
@@ -27,7 +27,7 @@ With Copilot in Word, we can transform the process of document creation and refi
 
 In this demo, we will take the documents we just created and transform them together to create a strategic analysis report. Additionally, we will adjust the format and tone to ensure the content aligns perfectly with our objectives.
 
-### Demo Steps
+## Demo Steps
 
 1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab.
 1. Click into the body of the document and select the Copilot icon displayed.
@@ -63,7 +63,9 @@ In this demo, we will take the documents we just created and transform them toge
 > [!NOTE]
 > If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
 
-### Optional Demo Steps
+## Optional Demo Steps
+
+### Summarize a large document
 
 1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
 1. Within Word, on the ribbon, select the Copilot icon.
