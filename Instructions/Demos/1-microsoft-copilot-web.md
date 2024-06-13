@@ -123,8 +123,8 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 1. Switch to a new browser session logged into a personal account.
 
-    > [!NOTE]
-    > You will need to use a personal account for this step. Work accounts will not work.
+> [!NOTE]
+> You will need to use a personal account for this step. Work accounts will not work.
 
 1. In the top right hand corner, select **Plugins**.
 
