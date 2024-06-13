@@ -4,7 +4,7 @@
 
 ### Talking Points
 
-Now switching to Microsoft Copilot on the web. Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
+Microsoft Copilot on the web gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
 
 When you or your organization use Copilot with Commercial Data Protection, your chat is not saved. All data is encrypted, and Microsoft doesn’t retain any of your prompts or responses. They are not used to train the model, so you can be confident that your personal and organizational information is kept confidential.
 
