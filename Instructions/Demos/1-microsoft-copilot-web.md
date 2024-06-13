@@ -147,7 +147,3 @@ First download the following: [**What is this image.png**](https://github.com/Mi
     Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
 1. Select the **Submit** button.
-
-## Conclusion
-
-Copilot has the ability to reason based on general knowledge, we can ground it in data and reason on that data to extend it and find solutions to problems, and we can add skills to extend those abilities even further. Imagine what this could do in your environment on your data.
