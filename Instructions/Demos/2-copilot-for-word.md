@@ -1,3 +1,8 @@
+---
+demo:
+    title: 'Demo: Copilot for Microsoft Word'
+---
+
 # Copilot for Microsoft Word
 
 ### Environment Setup
