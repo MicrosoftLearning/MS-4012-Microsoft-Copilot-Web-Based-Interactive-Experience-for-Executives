@@ -1,9 +1,9 @@
 ---
 demo:
-    title: 'Demo: Copilot in Microsoft 365 on the web'
+    title: 'Demo: Microsoft Copilot (web mode)'
 ---
 
-# Copilot in Microsoft 365 on the Web
+# Microsoft Copilot on the Web
 
 ## Copilot and Large Language Models
 
