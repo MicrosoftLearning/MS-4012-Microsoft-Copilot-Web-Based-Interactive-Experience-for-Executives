@@ -9,6 +9,7 @@ The specific files being used in this exercise are:
 - [**ContosoLearn App Overview.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn%20App%20Overview.docx)
 - [**ContosoLearn Competitor Swot.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn%20Competitor%20SWOT.docx)
 - [**ContosoLearn Value Proposition.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn%20Value%20Proposition.docx)
+- (Optional - see instructions below) [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx) 
 
 > [!NOTE]
 > It can take up to 10 minutes for these files to sync to your OneDrive. To expedite this process, you can open the document and then close it, which will add it to your Most Recently Used (MRU) list.
@@ -23,8 +24,8 @@ In this demo, we will take the documents we just created and transform them toge
 
 ### Demo Steps
 
-1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab
-1. Click into the body of the document and select the Copilot Icon Displayed
+1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab.
+1. Click into the body of the document and select the Copilot Icon Displayed.
 
     ![Screenshot showing the draft with Copilot icon.](../Demos/Media/draft_with_copilot_icon.png)
 
@@ -45,6 +46,34 @@ In this demo, we will take the documents we just created and transform them toge
 
     > [!IMPORTANT]
     > you will need to re-type “/” and select the correct files from Most Recently Used (MRU) list for this to function properly
-1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. 
+1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. Once Copilot has finished, the following prompt window will be displayed:
+
+    ![Screenshot showing keep it in Copilot.](../Demos/Media/keep_it_or_modify.png)
     
-    If Copilot for word in not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx)
+    In the prompt field, enter the following:
+
+    ```
+    Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
+    ```
+    > [!Note]
+    > If Copilot for word in not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
+
+### Optional Demo Steps
+
+1. Download and open the following file in Word on your desktop [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
+1. Within word, on the ribbon, select the Copilot icon.
+
+    ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
+1. In the Ask me anything about this document field, copy and paste the prompt or type: 
+
+    ```
+    Based on the document, how did AI impact Microsoft's earnings this year?
+    ```
+
+1. Select Send.  
+1. In the Ask me anything about this document field, copy and paste the prompt or type: 
+
+    ```
+    Copilot generate a FAQ based on this document.
+    ```
+1. Select Send.  
