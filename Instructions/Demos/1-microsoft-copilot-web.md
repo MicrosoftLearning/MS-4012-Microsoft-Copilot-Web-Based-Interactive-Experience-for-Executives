@@ -1,3 +1,8 @@
+---
+demo:
+    title: 'Demo: Copilot in Microsoft 365 on the web'
+---
+
 # Copilot in Microsoft 365 on the Web
 
 ## Copilot and Large Language Models
