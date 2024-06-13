@@ -26,8 +26,25 @@ In this demo, we will take the documents we just created and transform them toge
 1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab
 1. Click into the body of the document and select the Copilot Icon Displayed
 
-    ![Screenshot showing the draft with Copilot icon.](../media/draft_with_copilot_icon.png)
-  
+    ![Screenshot showing the draft with Copilot icon.](../Demos/Media/draft_with_copilot_icon.png)
 
-   
+1. In word, the "Draft with Copilot" window should now be displayed. In the prompt field, enter the following prompt:
 
+    ```
+    Create a comprehensive strategic analysis report for ContosoLearn using the following files as references: /ContosoLearn App Overview, /ContosoLearn Competitor SWOT, and /ContosoLearn Value Proposition. The strategic analysis report should include the following sections:
+        
+    Executive Summary
+    App Overview
+    Market Research
+    Competitor SWOT Analysis
+    Value Proposition
+    Strategic Insights
+    Recommendations
+    Conclusion
+    ```
+
+    > [!IMPORTANT]
+    > you will need to re-type “/” and select the correct files from Most Recently Used (MRU) list for this to function properly
+1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. 
+    
+    If Copilot for word in not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx)
