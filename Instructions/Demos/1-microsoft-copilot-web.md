@@ -1,10 +1,10 @@
-# Copilot in Microsoft 365 on the web
+# Copilot in Microsoft 365 on the Web
 
-## Copilot and large language models
+## Copilot and Large Language Models
 
-### talking points
+### Talking Points
 
-Now switching to Microsoft Copilot on the web. Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions and it will give me answers similar to what any college-educated person could give.
+Now switching to Microsoft Copilot on the web. Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
 
 When you or your organization use Copilot with Commercial Data Protection, your chat is not saved. All data is encrypted, and Microsoft doesn’t retain any of your prompts or responses. They are not used to train the model, so you can be confident that your personal and organizational information is kept confidential.
 
@@ -24,7 +24,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 ### Demo Steps
 
-> [!Note]
+> [!NOTE]
 > If you want to use your own prompts, start with a topic of general knowledge that’s interesting to you or your customer.
 
 1. Switch to the Edge tab with Copilot open and the Web scope selected.
@@ -44,7 +44,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 ## Grounding
 
-### talking points
+### Talking Points
 
 But what takes this power to the next level is the ability to ground Copilot in external data and knowledge. Sometimes this is called Retrieval Augmented Generation (RAG). This is the process of providing additional information to the language model that’s relevant to the task at hand.
 
@@ -65,36 +65,35 @@ We can ground our questions in all kinds of data and documents, for example, the
 
 ## Skills
 
-### Talking points
+### Talking Points
+
 This is great, but I’d really like to see a graph of this data. Unfortunately, Copilot can’t draw a graph right now, but that doesn’t mean we’re stuck. As we build Copilot, we’re adding different skills. Skills are ways that Copilot can draw on its reasoning power to solve problems.
 
 Another ability that I know Copilot has is the ability to code. I’m going to remind Copilot that it knows how to code and see if I can get it to write the Python code for that graph I wanted.
 
 **Example:**
-- **Prompt:** Can you give me a list of the labor force participation rates from the Bureau of Labor Statics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
+- **Prompt:** Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
 - **Response:** (Discuss the response)
 
 Over time, we expect these kinds of processes to become easier and more automated.
 
-### Demo steps
+### Demo Steps
 
-1. Start a new topic, by clicking **New topic**.
+1. Start a new topic, by clicking **New Topic**.
 
     ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
 
-1. In the Ask me anything... text box, copy and paste the prompt:
-
+1. In the **Ask me anything...** text box, copy and paste the prompt:
     ```
-    Can you give me a list of the labor force participation rates from the Bureau of Labor Statics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
+    Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
     ```
-
-1. Select the Submit button.
+1. Select the **Submit** button.
 
 ## Optional Demo Steps
 
-### Recognizing images
+### Recognizing Images
 
-First download the following: [**what is this image.png**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/what_is_this_image.png)
+First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/what_is_this_image.png)
 
 1. Start a new topic, by clicking **New Topic**.
 
@@ -107,29 +106,27 @@ First download the following: [**what is this image.png**](https://github.com/Mi
 1. Select **Upload from this device**.
 1. Browse to where you downloaded the image, select **What is this picture.png**, and then select **Open**.
 1. In the **Ask me anything…** text box type the prompt:
-     ```
+    ```
     What is this picture?
     ```
 1. Select the **Submit** button.
 
-### Show how Copilot can create images
+### Show How Copilot Can Create Images
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-1. 
     ```
-     Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
+    Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
     ```
-
 1. Select the **Submit** button.
 
-### Show how Copilot can write a song
+### Show How Copilot Can Write a Song
 
 1. Switch to a new browser session logged into a personal account.
 
-    > [!Note]
+    > [!NOTE]
     > You will need to use a personal account for this step. Work accounts will not work.
 
-1. In the top right hand corner, select "plugins".
+1. In the top right hand corner, select **Plugins**.
 
     ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/copilot_plugins.png)
 
@@ -137,18 +134,15 @@ First download the following: [**what is this image.png**](https://github.com/Mi
 
     ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/copilot_suno.png)
 
-    > [!Note]
+    > [!NOTE]
     > To use Suno, you must start a new topic in Copilot and then enable Suno.
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-1
     ```
     Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
-
 1. Select the **Submit** button.
 
-
-### Conclusion
+## Conclusion
 
 Copilot has the ability to reason based on general knowledge, we can ground it in data and reason on that data to extend it and find solutions to problems, and we can add skills to extend those abilities even further. Imagine what this could do in your environment on your data.
