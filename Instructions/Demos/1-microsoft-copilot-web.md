@@ -36,11 +36,13 @@ Copilot was able to make assumptions and draw connections between bits of knowle
     ![Screenshot showing web mode in Microsoft Copilot.](../Demos/Media/web_mode.png)
 
 1. In the **Ask me anything...** text box, copy and paste the prompt from the prompt library documents or type:
+
     ```text
     What can you tell me about elephants?
     ```
 1. Select the **Submit** button.
 1. In the **Ask me anything...** text box, copy and paste the prompt:
+
     ```text
     Could an elephant pull an F150?
     ```
@@ -151,5 +153,5 @@ First download the following: [**What is this image.png**](https://github.com/Mi
     ```text
     Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
-    
+
 1. Select the **Submit** button.

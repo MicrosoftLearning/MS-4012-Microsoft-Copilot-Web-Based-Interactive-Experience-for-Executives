@@ -48,20 +48,21 @@ Now I can ask Copilot questions and get more information about this meeting. For
 
 1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
 
-    ```
+    ```text
     Can you list action items and owners in a table?
     ```
+
 1. Select **Send**.
 1. In the **Ask me anything about this meeting** text box, copy and paste the prompt: 
 
-    ```
+    ```text
     Did anyone strongly oppose the decision, and how do you know?
     ```
     
 1. Select **Send**.
 1. In the **Ask me anything about this meeting** text box, copy and paste the prompt:
 
-    ```
+    ```text
     Based on the transcript, when would you recommend we launch the product and why?
     ```
 

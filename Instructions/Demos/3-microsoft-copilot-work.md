@@ -31,7 +31,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. In the **Ask me anything...** text box, copy and paste the prompt: 
 
-    ```
+    ```text
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
     ```
 
@@ -39,7 +39,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. In the **Ask me anything...** text box, copy and paste or type: 
 
-    ```
+    ```text
     Can you summarize the last five emails from “/”.
     ```
     > **NOTE:** You must include the slash symbol.
@@ -51,7 +51,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 1. Select the person’s name when it appears.
 1. Copy and paste or type the rest of the prompt:
 
-    ```
+    ```text
     To be specific, look for the last five emails from this person over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
     ```
 
@@ -59,7 +59,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. **Optional:** In the **Ask me anything...** text box, copy and paste the prompt:
 
-    ```
+    ```text
     Can you summarize the last five emails from my boss? To be specific, look for the last five emails from my boss over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
     ```
 
@@ -67,7 +67,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. **Optional:** In the **Ask me anything...*" text box, copy and paste the prompt:
 
-    ```
+    ```text
     Review my meetings this week and create 5-7 categories that describe how I am spending my time. For each category, provide a short description and give me an approximate percentage of time I spent there.
     ```
 

@@ -35,7 +35,7 @@ In this demo, we will take the documents we just created and transform them toge
 
 1. In Word, the **Draft with Copilot** window should now be displayed. In the prompt field, enter the following prompt:
 
-    ```
+    ```text
     Create a comprehensive strategic analysis report for ContosoLearn using the following files as references: /ContosoLearn App Overview, /ContosoLearn Competitor SWOT, and /ContosoLearn Value Proposition. The strategic analysis report should include the following sections:
         
     Executive Summary
@@ -56,9 +56,10 @@ In this demo, we will take the documents we just created and transform them toge
     
     In the prompt field, enter the following:
 
-    ```
+    ```text
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
+
     > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
 
 ## Optional Demo Steps
@@ -69,16 +70,18 @@ In this demo, we will take the documents we just created and transform them toge
 1. Within Word, on the ribbon, select the **Copilot icon**.
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
+
 1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
 
-    ```
+    ```text
     Based on the document, how did AI impact Microsoft's earnings this year?
     ```
 
 1. Select **Send**.  
 1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
 
-    ```
+    ```text
     Copilot, generate a FAQ based on this document.
     ```
+    
 1. Select **Send**.
