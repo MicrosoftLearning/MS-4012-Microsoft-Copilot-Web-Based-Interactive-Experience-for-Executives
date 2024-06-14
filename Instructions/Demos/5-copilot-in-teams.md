@@ -1,9 +1,9 @@
 ---
 demo:
-    title: 'Demo: Copilot for Outlook'
+    title: 'Demo: Copilot in Teams'
 ---
 
-# Copilot for Microsoft Teams
+# Copilot in Teams
 
 ## Demo Setup
 

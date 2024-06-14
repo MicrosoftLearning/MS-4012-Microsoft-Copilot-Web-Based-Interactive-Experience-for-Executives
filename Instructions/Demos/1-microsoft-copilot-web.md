@@ -1,9 +1,9 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (web mode)'
+    title: 'Demo: Microsoft Copilot (Web Scope)'
 ---
 
-# Microsoft Copilot on the Web
+# Microsoft Copilot (Web Scope)
 
 ## Copilot and Large Language Models
 

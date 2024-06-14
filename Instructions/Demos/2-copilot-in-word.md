@@ -1,9 +1,9 @@
 ---
 demo:
-    title: 'Demo: Copilot for Microsoft Word'
+    title: 'Demo: Copilot in Word'
 ---
 
-# Copilot for Microsoft Word
+# Copilot in Word
 
 ## Demo Setup
 
