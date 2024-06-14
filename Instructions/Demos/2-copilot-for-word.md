@@ -5,7 +5,7 @@ demo:
 
 # Copilot for Microsoft Word
 
-## Environment Setup
+## Demo Setup
 
 The sample documents can be found in the MS-4012 GitHub repository under [**All Files > Demo Sample Docs**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Allfiles/Demo%20Sample%20Docs).
 
@@ -30,11 +30,11 @@ In this demo, we will take the documents we just created and transform them toge
 ## Demo Steps
 
 1. Launch Microsoft Word either on the desktop or by typing **Word.new** in a new Edge tab.
-1. Click into the body of the document and select the Copilot icon displayed.
+1. Click into the body of the document and select the **Copilot icon** displayed.
 
     ![Screenshot showing the draft with Copilot icon.](../Demos/Media/draft_with_copilot_icon.png)
 
-1. In Word, the "Draft with Copilot" window should now be displayed. In the prompt field, enter the following prompt:
+1. In Word, the **Draft with Copilot** window should now be displayed. In the prompt field, enter the following prompt:
 
     ```
     Create a comprehensive strategic analysis report for ContosoLearn using the following files as references: /ContosoLearn App Overview, /ContosoLearn Competitor SWOT, and /ContosoLearn Value Proposition. The strategic analysis report should include the following sections:
@@ -68,19 +68,19 @@ In this demo, we will take the documents we just created and transform them toge
 ### Summarize a large document
 
 1. Download and open the following file in Word on your desktop: [**Microsoft FY24 Second Quarter Earnings Conference Call**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/Microsoft_FY24_Second_Quarter_Earnings_Conference_Call.docx).
-1. Within Word, on the ribbon, select the Copilot icon.
+1. Within Word, on the ribbon, select the **Copilot icon**.
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/copilot_icon.png)
-1. In the "Ask me anything about this document" field, copy and paste the prompt or type: 
+1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
 
     ```
     Based on the document, how did AI impact Microsoft's earnings this year?
     ```
 
-1. Select Send.  
-1. In the "Ask me anything about this document" field, copy and paste the prompt or type: 
+1. Select **Send**.  
+1. In the **Ask me anything about this document** field, copy and paste the prompt or type: 
 
     ```
     Copilot, generate a FAQ based on this document.
     ```
-1. Select Send.
+1. Select **Send**.
