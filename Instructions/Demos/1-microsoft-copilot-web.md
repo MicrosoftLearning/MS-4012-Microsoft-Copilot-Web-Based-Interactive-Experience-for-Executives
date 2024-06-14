@@ -36,12 +36,12 @@ Copilot was able to make assumptions and draw connections between bits of knowle
     ![Screenshot showing web mode in Microsoft Copilot.](../Demos/Media/web_mode.png)
 
 1. In the **Ask me anything...** text box, copy and paste the prompt from the prompt library documents or type:
-    ```
+    ```text
     What can you tell me about elephants?
     ```
 1. Select the **Submit** button.
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-    ```
+    ```text
     Could an elephant pull an F150?
     ```
 1. Select the **Submit** button.
@@ -61,7 +61,8 @@ We can ground our questions in all kinds of data and documents, for example, the
     ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-    ```
+
+    ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years?
     ```
 1. Select the **Submit** button.
@@ -88,9 +89,11 @@ Over time, we expect these kinds of processes to become easier and more automate
     ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-    ```
+
+    ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
     ```
+
 1. Select the **Submit** button.
 
 ## Optional Demo Steps
@@ -110,17 +113,21 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 1. Select **Upload from this device**.
 1. Browse to where you downloaded the image, select **What is this picture.png**, and then select **Open**.
 1. In the **Ask me anything…** text box type the prompt:
-    ```
+
+    ```text
     What is this picture?
     ```
+
 1. Select the **Submit** button.
 
 ### Show How Copilot Can Create Images
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-    ```
+
+    ```text
     Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
     ```
+
 1. Select the **Submit** button.
 
 ### Show How Copilot Can Write a Song
@@ -140,7 +147,9 @@ First download the following: [**What is this image.png**](https://github.com/Mi
     > **NOTE:** To use Suno, you must start a new topic in Copilot and then enable Suno.
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
-    ```
+
+    ```text
     Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
+    
 1. Select the **Submit** button.

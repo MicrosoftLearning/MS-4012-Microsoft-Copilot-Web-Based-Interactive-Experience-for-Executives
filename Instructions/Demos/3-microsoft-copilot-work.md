@@ -43,8 +43,11 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
     Can you summarize the last five emails from “/”.
     ```
     > **NOTE:** You must include the slash symbol.
+
 1. Start typing the name of a colleague.
+
     > **IMPORTANT:** Choose a person who you do not share confidential information with.
+
 1. Select the person’s name when it appears.
 1. Copy and paste or type the rest of the prompt:
 
