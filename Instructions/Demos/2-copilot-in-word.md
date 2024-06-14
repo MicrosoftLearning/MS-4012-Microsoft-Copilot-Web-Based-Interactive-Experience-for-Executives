@@ -49,8 +49,8 @@ In this demo, we will take the documents we just created and transform them toge
     Conclusion
     ```
 
-> [!IMPORTANT]
-> You will need to re-type “/” and select the correct files from the Most Recently Used (MRU) list for this to function properly.
+    > **IMPORTANT:**  You will need to re-type “/” and select the correct files from the Most Recently Used (MRU) list for this to function properly.
+
 1. Copilot will now generate a draft of the strategic analysis report based on the prompt you provided. Once Copilot has finished, the following prompt window will be displayed:
 
     ![Screenshot showing keep it in Copilot.](../Demos/Media/keep_it_or_modify.png)
@@ -60,8 +60,7 @@ In this demo, we will take the documents we just created and transform them toge
     ```
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
-> [!NOTE]
-> If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
+    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
 
 ## Optional Demo Steps
 

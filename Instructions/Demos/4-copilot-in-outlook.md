@@ -10,8 +10,7 @@ The Demo Setup instructions can be found in the MS-4012 GitHub repository under 
 
 The specific file you'll need to reference is: [**Copilot_Demo_Guidance_Prep_Session.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup/Copilot_Demo_Guidance_%20Prep%20Session.docx). Specifically, pages 1-4, which covers how to set up the email thread we will reference in the demo below.
 
-> [!IMPORTANT]
-> The demo setup will require at least 4 people (optionally 6). Conduct this with your team before your planned delivery. Once completed, you can reference this email for future deliveries.
+> **IMPORTANT:**  The demo setup will require at least 4 people (optionally 6). Conduct this with your team before your planned delivery. Once completed, you can reference this email for future deliveries.
 
 ## Talking Points
 
@@ -35,8 +34,7 @@ OK, I’m going to keep this response."
 
 1. Switch to Outlook with the demo email thread open.
 
-    > [!IMPORTANT]
-    > Do not show any emails that contain confidential data.
+    > **IMPORTANT:**  Do not show any emails that contain confidential data.
 
 1. Below the email’s subject, select **Summary by Copilot** and point out the results.
 1. At the top of the page, select **Reply all**.
@@ -69,5 +67,4 @@ OK, I’m going to keep this response."
 1. **Optional**: In the **Anything you’d like to change?** Text box, type **"Make it funnier"** and then select Generate.
 1. Select **Keep it**.
 
-    > [!NOTE] 
-    > Do not send the reply, as you may wish to re-use this email thread for future demos.
+    > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.

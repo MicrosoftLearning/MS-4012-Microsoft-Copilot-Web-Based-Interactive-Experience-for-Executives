@@ -29,8 +29,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 ### Demo Steps
 
-> [!NOTE]
-> If you want to use your own prompts, start with a topic of general knowledge that’s interesting to you or your customer.
+> **NOTE:** If you want to use your own prompts, start with a topic of general knowledge that’s interesting to you or your customer.
 
 1. Switch to the Edge tab with Copilot open and the Web scope selected.
 
@@ -128,8 +127,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 1. Switch to a new browser session logged into a personal account.
 
-> [!NOTE]
-> You will need to use a personal account for this step. Work accounts will not work.
+> **NOTE:** You will need to use a personal account for this step. Work accounts will not work.
 
 1. In the top right hand corner, select **Plugins**.
 
@@ -139,8 +137,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
     ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/copilot_suno.png)
 
-    > [!NOTE]
-    > To use Suno, you must start a new topic in Copilot and then enable Suno.
+    > **NOTE:** To use Suno, you must start a new topic in Copilot and then enable Suno.
 
 1. In the **Ask me anything...** text box, copy and paste the prompt:
     ```
