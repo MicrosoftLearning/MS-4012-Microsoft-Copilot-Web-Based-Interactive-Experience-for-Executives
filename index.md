@@ -23,7 +23,6 @@ It is important that you familiarize yourself with the demos prior to delivering
 | 3 | Copilot for Microsoft 365 at work     | - Microsoft Graph slide <br> - Demo Copilot in Word, Microsoft Copilot (work mode), Copilot in Outlook, and Copilot in Teams <br> - Testimonial Slide <br> - Microsoft Copilot on Mobile slide | 25 minutes      |
 |   |                                       |                                                                                                  | **Total time could push 70 minutes** |
 
-## 
 
 Hyperlinks to each of the demos are listed below.
 
