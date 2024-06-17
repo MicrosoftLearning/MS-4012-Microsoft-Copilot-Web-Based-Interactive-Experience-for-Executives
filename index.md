@@ -23,11 +23,3 @@ Hyperlinks to each of the demos are listed below.
 | --- |
 {% for activity in demos  %}| [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
-
-{% for activity in demos %}
-{% assign demo_url = site.github.url | append: activity.url %}
-{% capture back_button %}
-[Back to Index]({{ site.github.url }}/index.html)
-{% endcapture %}
-{{ activity.content | append: back_button }}
-{% endfor %}
