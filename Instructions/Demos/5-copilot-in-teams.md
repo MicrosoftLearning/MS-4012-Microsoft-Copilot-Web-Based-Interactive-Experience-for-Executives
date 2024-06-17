@@ -3,6 +3,8 @@ demo:
     title: 'Demo: Copilot in Teams'
 ---
 
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+
 # Copilot in Teams
 
 ## Demo Setup
@@ -67,3 +69,5 @@ Now I can ask Copilot questions and get more information about this meeting. For
     ```
 
 1. Select **Send**.
+
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)

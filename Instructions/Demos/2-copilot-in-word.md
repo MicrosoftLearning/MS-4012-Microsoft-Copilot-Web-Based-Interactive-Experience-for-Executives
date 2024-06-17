@@ -3,6 +3,8 @@ demo:
     title: 'Demo: Copilot in Word'
 ---
 
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+
 # Copilot in Word
 
 ## Demo Setup
@@ -85,3 +87,5 @@ In this demo, we will take the documents we just created and transform them toge
     ```
     
 1. Select **Send**.
+
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)

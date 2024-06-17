@@ -2,6 +2,9 @@
 demo:
     title: 'Demo: Copilot in Outlook'
 ---
+
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+
 # Copilot in Outlook
 
 ## Demo Setup
@@ -68,3 +71,5 @@ OK, I’m going to keep this response."
 1. Select **Keep it**.
 
     > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.
+
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)

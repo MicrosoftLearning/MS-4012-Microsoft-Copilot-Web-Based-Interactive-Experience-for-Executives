@@ -3,6 +3,8 @@ demo:
     title: 'Demo: Microsoft Copilot (Work Scope)'
 ---
 
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+
 # Microsoft Copilot (Work Scope)
 
 ## Demo Setup
@@ -72,3 +74,5 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
     ```
 
     Then select **Submit**.
+
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
