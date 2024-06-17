@@ -73,7 +73,7 @@ We can ground our questions in all kinds of data and documents, for example, the
 1. Select the **Submit** button.
 1. In the response, next to **Learn more**, pause the mouse over one or two of the references.
 
-## Skills
+## Additional Copilot Skills
 
 ### Talking Points
 
