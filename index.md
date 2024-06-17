@@ -6,12 +6,12 @@ layout: home
 
 # Content Directory
 
-The demos for this course are based on the demos from the accelerator kit ([Demo Guide and Talking Points.docx](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup/Demo_Guide_and_Talking_Points.docx)).
+The demos for this course are based on the demos from the accelerator kit ([Demo Guide and Talking Points.docx](https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG).
 
 It is important that you familiarize yourself with the demos prior to delivering this training. For several labs, you'll utilize sample documents and pre-created Teams meetings and emails.
 
 - Pre-download all sample documents here: [Demo Sample Docs](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Allfiles/Demo%20Sample%20Docs).
-- Setup Teams meetings and email threads by following the instructions in this file: [Copilot Demo Guidance Prep Session](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup/Copilot_Demo_Guidance_%20Prep%20Session.docx).
+- Setup Teams meetings and email threads by following the instructions in this file: [Copilot Demo Guidance Prep Session](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG).
 - Familiarize yourself with the Interactive experience found here (PDF will download to your device): [Interactive Experience](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup/interactive_experience.pdf)
 
 ## Course Timing (Not finalized) 
