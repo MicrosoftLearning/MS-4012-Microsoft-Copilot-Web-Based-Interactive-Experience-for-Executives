@@ -1,4 +1,5 @@
 ---
+Layout: default
 demo:
     title: 'Demo: Microsoft Copilot (Web Scope)'
 ---
