@@ -4,6 +4,8 @@ demo:
     title: 'Demo: Microsoft Copilot (Web Scope)'
 ---
 
+[Back to Index](../index.html)
+
 # Microsoft Copilot (Web Scope)
 
 ## Copilot and Large Language Models
