@@ -155,3 +155,5 @@ First download the following: [**What is this image.png**](https://github.com/Mi
     ```
 
 1. Select the **Submit** button.
+
+[Back to Index](../index.html)
