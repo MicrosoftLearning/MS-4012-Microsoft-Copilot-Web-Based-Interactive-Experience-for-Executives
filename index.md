@@ -15,7 +15,18 @@ It is important that you familiarize yourself with the demos prior to delivering
 - Familiarize yourself with the Interactive experience found [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/MS-4012_interactive_experience.pdf).
 
     > **NOTE:** The Interactive Experience PDF file will download directly to device (downloads folder).
-- Review the most current training deck [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/copilot_unlocked_draft.pptx). 
+- Review the most current training deck [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/copilot_unlocked_draft.pptx).
+
+## Course Description
+
+Explore the transformative potential of Microsoft Copilot and its impact on organizational efficiency. Designed for executives and business leaders without a Copilot license, this experience delves into the art of crafting effective prompts, offers an interactive experience, and demonstrates how Microsoft Copilot for Microsoft 365 can seamlessly integrate into daily business workflows to boost productivity and innovation.
+
+The primary objectives for this delivery is to:
+
+- Teach how to craft effective prompts
+- Demonstrate Microsoft Copilot (web scope) and guide participants through an interactive experience
+- Demonstrate Microsoft Copilot for Microsoft 365 - Microsoft Copilot (work scope), word, Outlook, and teams
+- Invite participants to download and try Microsoft Copilot for Mobile
 
 ## Course Timing (Not finalized) 
 
