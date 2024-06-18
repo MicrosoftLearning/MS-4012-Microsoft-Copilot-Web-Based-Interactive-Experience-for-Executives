@@ -12,7 +12,7 @@ It is important that you familiarize yourself with the demos prior to delivering
 
 - Pre-download all sample documents [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/tree/master/Allfiles/Demo%20Sample%20Docs).
 - Setup Teams meetings and email threads by following the instructions [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG).
-- Familiarize yourself with the Interactive experience found [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/interactive_experience.pdf).
+- Familiarize yourself with the Interactive experience found [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/MS-4012_interactive_experience.pdf).
 
     > **NOTE:** The Interactive Experience PDF file will download directly to device (downloads folder).
 - Review the most current training deck [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Prep/copilot_unlocked_draft.pptx). 
