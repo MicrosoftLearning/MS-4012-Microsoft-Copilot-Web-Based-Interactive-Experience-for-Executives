@@ -9,9 +9,7 @@ demo:
 
 ## Demo Setup
 
-The Demo Setup instructions can be found in the MS-4012 GitHub repository under [**All Files > Demo Setup**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup).
-
-The specific file you'll need to reference is: [**Copilot_Demo_Guidance_Prep_Session.docx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo_Setup/Copilot_Demo_Guidance_%20Prep%20Session.docx). Specifically, pages 1-4, which covers how to set up the email thread we will reference in the demo below.
+The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, pages 1-4, which covers how to set up the email thread we will reference in the demo below.
 
 > **IMPORTANT:**  The demo setup will require at least 4 people (optionally 6). Conduct this with your team before your planned delivery. Once completed, you can reference this email for future deliveries.
 
