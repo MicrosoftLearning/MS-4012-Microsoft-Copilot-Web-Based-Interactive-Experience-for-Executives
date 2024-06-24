@@ -15,7 +15,8 @@ It is important that you familiarize yourself with the demos prior to delivering
 - Familiarize yourself with the Interactive experience found [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/MS-4012_interactive_experience.pdf).
 
     > **NOTE:** The Interactive Experience PDF file will download directly to device (downloads folder).
-- Review the most current training deck [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/copilot_unlocked_draft.pptx).
+
+- Review the most current training deck [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/MS-4012-ENU-PowerPoint.pptx).
 
 ## Course Description
 
