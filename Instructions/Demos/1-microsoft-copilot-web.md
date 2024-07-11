@@ -4,7 +4,7 @@ demo:
     title: 'Demo: Microsoft Copilot (Web Scope)'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
 # Microsoft Copilot (Web Scope)
 
