@@ -75,4 +75,4 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
     Then select **Submit**.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
