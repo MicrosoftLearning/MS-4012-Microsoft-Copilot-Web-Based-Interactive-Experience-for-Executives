@@ -159,4 +159,4 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 1. Select the **Submit** button.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
