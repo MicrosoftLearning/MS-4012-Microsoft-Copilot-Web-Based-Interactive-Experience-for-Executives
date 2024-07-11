@@ -70,4 +70,4 @@ OK, I’m going to keep this response."
 
     > **NOTE:**  Do not send the reply, as you may wish to re-use this email thread for future demos.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
