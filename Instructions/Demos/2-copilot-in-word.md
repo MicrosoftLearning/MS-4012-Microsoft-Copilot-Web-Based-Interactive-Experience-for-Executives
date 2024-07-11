@@ -3,7 +3,7 @@ demo:
     title: 'Demo: Copilot in Word'
 ---
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
 # Copilot in Word
 
