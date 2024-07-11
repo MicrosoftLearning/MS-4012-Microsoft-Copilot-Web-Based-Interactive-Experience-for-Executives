@@ -88,4 +88,4 @@ In this demo, we will take the documents we just created and transform them toge
     
 1. Select **Send**.
 
-[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Unlocked/)
+[Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
