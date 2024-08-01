@@ -45,8 +45,6 @@ In this demo, we will take the documents we just created and transform them toge
     Market Research
     Competitor SWOT Analysis
     Value Proposition
-    Strategic Insights
-    Recommendations
     Conclusion
     ```
 
