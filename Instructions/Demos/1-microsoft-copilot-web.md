@@ -25,7 +25,7 @@ For example, I can ask a general knowledge question like this and get a lot of g
 Copilot uses large language models (LLMs) trained on huge amounts of information, including Bing searches and results. But Copilot isn’t just a fact checker. We can use Copilot as a general reasoning engine that can take your questions and reason on them stochastically. In the industry, we call this inference.
 
 **Example:**
-- **Prompt:** Could an elephant pull an F150?
+- **Prompt:** I’m more interested in the power of an elephant and how many humans would it take to win a tug-of-war with an elephant? 
 - **Response:** (Discuss the response)
 
 Copilot was able to make assumptions and draw connections between bits of knowledge to give me a more nuanced answer to my question. As we improve Copilot, we’re learning a lot about what these LLMs are good at and what they’re not good at, and we’re building that knowledge into the product as we build it.
