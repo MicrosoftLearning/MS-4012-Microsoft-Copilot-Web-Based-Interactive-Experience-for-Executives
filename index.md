@@ -20,22 +20,22 @@ It is important that you familiarize yourself with the demos prior to delivering
 
 ## Course Description
 
-Explore the transformative potential of Microsoft Copilot and its impact on organizational efficiency. Designed for executives and business leaders without a Copilot license, this experience delves into the art of crafting effective prompts, offers an interactive experience, and demonstrates how Microsoft Copilot for Microsoft 365 can seamlessly integrate into daily business workflows to boost productivity and innovation.
+Explore the transformative potential of Microsoft Copilot and its impact on organizational efficiency. Designed for executives and business leaders without a Copilot license, this experience delves into the art of crafting effective prompts, offers an interactive experience, and demonstrates how Microsoft 365 Copilot can seamlessly integrate into daily business workflows to boost productivity and innovation.
 
 The primary objectives for this delivery is to:
 
 - Teach how to craft effective prompts
 - Demonstrate Microsoft Copilot (web scope) and guide participants through an interactive experience
-- Demonstrate Microsoft Copilot for Microsoft 365 - Microsoft Copilot (work scope), word, Outlook, and teams
+- Demonstrate Microsoft 365 Copilot - Microsoft Copilot (work scope), word, Outlook, and teams
 - Invite participants to download and try Microsoft Copilot for Mobile
 
 ## Course Timing (Not finalized) 
 
 | # | Topic                                 | Details                                                                                          | Total Time      |
 |---|---------------------------------------|--------------------------------------------------------------------------------------------------|-----------------|
-| 1 | Craft effective prompts in Copilot for Microsoft 365 | - Art of the prompt slide <br> - Prompt building slide <br> - Copilot lab slide | 5-10 minutes    |
+| 1 | Craft effective prompts in Microsoft 365 Copilot | - Art of the prompt slide <br> - Prompt building slide <br> - Copilot lab slide | 5-10 minutes    |
 | 2 | Microsoft Copilot on the web          | - Demo Microsoft Copilot (web mode) <br> - Interactive experience  <br> - Share your Experience slide | 35 minutes      |
-| 3 | Copilot for Microsoft 365 at work     | - Microsoft Graph slide <br> - Demo Copilot in Word, Microsoft Copilot (work mode), Copilot in Outlook, and Copilot in Teams <br> - Testimonial Slide <br> - Microsoft Copilot on Mobile slide | 25 minutes      |
+| 3 | Microsoft 365 Copilot at work     | - Microsoft Graph slide <br> - Demo Copilot in Word, Microsoft Copilot (work mode), Copilot in Outlook, and Copilot in Teams <br> - Testimonial Slide <br> - Microsoft Copilot on Mobile slide | 25 minutes      |
 |   |                                       |                                                                                                  | **Total time could push 70 minutes** |
 
 
