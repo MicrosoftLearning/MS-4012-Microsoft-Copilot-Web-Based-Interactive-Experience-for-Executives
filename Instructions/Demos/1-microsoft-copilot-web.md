@@ -1,18 +1,17 @@
 ---
-Layout: default
 demo:
-    title: 'Demo: Microsoft Copilot (Web Scope)'
+    title: 'Demo: Microsoft Copilot (copilo.microsoft.com)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot (Web Scope)
+# Microsoft Copilot (copilo.microsoft.com)
 
 ## Copilot and Large Language Models
 
 ### Talking Points
 
-Microsoft Copilot on the web gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
+Microsoft Copilot gives you an AI-powered personal assistant that can answer questions and help with general tasks. I can ask it questions, and it will give me answers similar to what any college-educated person could give.
 
 When you or your organization use Copilot with Commercial Data Protection, your chat is not saved. All data is encrypted, and Microsoft doesn’t retain any of your prompts or responses. They are not used to train the model, so you can be confident that your personal and organizational information is kept confidential.
 
@@ -34,17 +33,19 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 > **NOTE:** If you want to use your own prompts, start with a topic of general knowledge that’s interesting to you or your customer.
 
-1. Switch to the Edge tab with Copilot open and the Web scope selected.
+1. To launch Microsoft Copilot, open a new Edge browser tab and navigate to <a href="https://copilot.microsoft.com" target="_blank">copilot.microsoft.com</a>.
 
-    ![Screenshot showing web mode in Microsoft Copilot.](../Demos/Media/web_mode.png)
+1. Sign into a non-work microsoft account.
 
-1. In the **Ask me anything...** text box, copy and paste the prompt from the prompt library documents or type:
+    > **NOTE:** If you sign into your work account, you will  redirected to Business chat (Copilot.Cloud.Microsoft.com) 
+
+1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
 
     ```text
     What can you tell me about elephants?
     ```
 1. Select the **Submit** button.
-1. In the **Ask me anything...** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     I’m more interested in the power of an elephant. How many humans would it take to win a tug-of-war with an elephant?
@@ -61,11 +62,9 @@ We can ground our questions in all kinds of data and documents, for example, the
 
 ### Demo Steps
 
-1. Start a new topic, by clicking **New Topic**.
+1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-    ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
-
-1. In the **Ask me anything...** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years?
@@ -89,11 +88,9 @@ Over time, we expect these kinds of processes to become easier and more automate
 
 ### Demo Steps
 
-1. Start a new topic, by clicking **New Topic**.
+1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-    ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
-
-1. In the **Ask me anything...** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Can you give me a list of the labor force participation rates from the Bureau of Labor Statistics over the last 5 years? I also heard that you could code. Can you grab the data from bls.gov and then write the Python code that would produce the graph I'm looking for?
@@ -107,17 +104,12 @@ Over time, we expect these kinds of processes to become easier and more automate
 
 First download the following: [**What is this image.png**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/what_is_this_image.PNG)
 
-1. Start a new topic, by clicking **New Topic**.
+1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-    ![Screenshot showing new topic in Microsoft Copilot.](../Demos/Media/new_topic.png)
+1. At the bottom of the page, select the Pluss (**+**) icon.
 
-1. At the bottom of the page, select the **Add an image** icon.
-
-    ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/add_an_image.png)
-
-1. Select **Upload from this device**.
 1. Browse to where you downloaded the image, select **What is this picture.png**, and then select **Open**.
-1. In the **Ask me anything…** text box type the prompt:
+1. In the **Message Copilot…** text box type the prompt:
 
     ```text
     What is this picture?
@@ -127,34 +119,10 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 ### Show How Copilot Can Create Images
 
-1. In the **Ask me anything...** text box, copy and paste the prompt:
+1. In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Copilot, make a banner for a hamburger stand. Make it friendly and show people enjoying a hamburger.
-    ```
-
-1. Select the **Submit** button.
-
-### Show How Copilot Can Write a Song
-
-1. Switch to a new browser session logged into a personal account.
-
-> **NOTE:** You will need to use a personal account for this step. Work accounts will not work.
-
-1. In the top right hand corner, select **Plugins**.
-
-    ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/copilot_plugins.png)
-
-1. In the list of available plugins, enable **Suno**.
-
-    ![Screenshot showing add an image in Microsoft Copilot.](../Demos/Media/copilot_suno.png)
-
-    > **NOTE:** To use Suno, you must start a new topic in Copilot and then enable Suno.
-
-1. In the **Ask me anything...** text box, copy and paste the prompt:
-
-    ```text
-    Write a country song about Microsoft Copilot, extolling its virtues as an AI companion. Make it catchy, upbeat, and a little quirky.
     ```
 
 1. Select the **Submit** button.
