@@ -1,11 +1,11 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (Work Scope)'
+    title: 'Demo: Business Chat'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot (Work Scope)
+# Business Chat (Work Scope)
 
 ## Demo Setup
 
@@ -15,7 +15,7 @@ In the prompts below, you will reference a person who you do not share confident
 
 ## Talking Points
 
-"With Microsoft 365 Copilot running within the work scope, Copilot uses Microsoft 365 security to protect your data and runs all its services inside your organization’s compliance boundary.
+"Within Business Chat running within the work scope, Copilot uses Microsoft 365 security to protect your data and runs all its services inside your organization’s compliance boundary.
 
 Here, in the work scope, we’re enhancing Copilot with information from the Microsoft Graph. Let’s start with some basic knowledge management. Finding out where and from whom I can get information is a perennial knowledge management challenge. Let’s see who in my organization can tell me about grounding and LLMs.
 
