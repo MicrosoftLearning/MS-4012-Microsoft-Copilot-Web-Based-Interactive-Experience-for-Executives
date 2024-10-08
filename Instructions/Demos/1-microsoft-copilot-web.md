@@ -1,11 +1,11 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (copilo.microsoft.com)'
+    title: 'Demo: Microsoft Copilot (copilot.microsoft.com)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Microsoft Copilot (copilo.microsoft.com)
+# Microsoft Copilot (copilot.microsoft.com)
 
 ## Copilot and Large Language Models
 
