@@ -14,11 +14,11 @@ Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https
 
 ## Talking Points
 
-Copilot in Excel makes anyone a data analyst. You can use Copilot to quickly understand annual revenue trends, product sales, category performance, and what's driving your business results.
+Copilot turns anyone into a data analyst, enabling you to quickly understand key trends, performance metrics, and the factors driving your business or project outcomes.
 
-You've pulled all your data together into an Excel workbook that contains information on product sales, pricing, and customer feedback.
+Whether you're working with sales data, financial reports, customer feedback, or operational metrics, Copilot helps you shape and analyze your information, providing insights from complex datasets across multiple sources.
 
-Copilot can help you shape and analyze these numbers across multiple tabs, making it easier to extract insights.
+With Copilot, you can easily extract meaningful insights to inform better decision-making, no matter the type of data or the complexity of the analysis.
 
 ## Demo Steps
 
