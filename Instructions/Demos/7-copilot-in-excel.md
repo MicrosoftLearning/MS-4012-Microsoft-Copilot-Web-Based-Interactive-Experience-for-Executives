@@ -9,7 +9,7 @@ demo:
 
 ## Demo Setup
 
-Download the Excel sample document [**EV_Charger-Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/raw/refs/heads/Oct_updates/Resourcefiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
+Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/raw/refs/heads/Oct_updates/Resourcefiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
 
 
 ## Talking Points
@@ -22,7 +22,7 @@ Copilot can help you shape and analyze these numbers across multiple tabs, makin
 
 ## Demo Steps
 
-> **NOTE:** Make sure to open the Excel file **EV Charger – Sales Analysis v1.xlsx** before proceeding.
+> **NOTE:** Make sure to open the Excel file **EV_Charger_Sales_Analysis_v1.xlsx** before proceeding.
 
 1. **Navigate to the "Sales by Product" tab** in the Excel file.
 
