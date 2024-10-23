@@ -78,5 +78,3 @@ Copilot can help you shape and analyze these numbers across multiple tabs, makin
 ### Wrap-up
 
 With the help of Copilot, you've analyzed complex data sets and gained insights on product performance and customer feedback. These insights can be used to inform your next business review.
-
-> **TIP:** If you want to explore further, try asking Copilot additional questions related to sales trends or customer satisfaction.
