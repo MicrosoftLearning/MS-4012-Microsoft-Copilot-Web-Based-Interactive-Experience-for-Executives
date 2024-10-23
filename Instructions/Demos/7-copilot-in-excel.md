@@ -14,7 +14,7 @@ Download the Excel sample document [**EV_Charger_Sales_Analysis_v1.xlsx**](https
 
 ## Talking Points
 
-Copilot turns anyone into a data analyst, enabling you to quickly understand key trends, performance metrics, and the factors driving your business or project outcomes.
+Microsoft 365 Copilot in Excel turns anyone into a data analyst, enabling you to quickly understand key trends, performance metrics, and the factors driving your business or project outcomes.
 
 Whether you're working with sales data, financial reports, customer feedback, or operational metrics, Copilot helps you shape and analyze your information, providing insights from complex datasets across multiple sources.
 
