@@ -9,7 +9,7 @@ demo:
 
 ## Demo Setup
 
-Download the Excel sample document [**EV_Charger-Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/EV_Charger-Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
+Download the Excel sample document [**EV_Charger-Sales_Analysis_v1.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/raw/refs/heads/Oct_updates/Resourcefiles/EV_Charger_Sales_Analysis_v1.xlsx). You will use this file to run the demo steps outlined in this guide.
 
 
 ## Talking Points
