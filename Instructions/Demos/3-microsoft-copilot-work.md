@@ -29,9 +29,9 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 > **IMPORTANT:** To customize the prompts further, look for non-confidential emails or meetings and ask Copilot to summarize, or list action items. Important: When choosing people, choose people who you do not share confidential information with!
 
-1. In the top left, switch the toggle to **Work**.
+1. In the top center, switch the toggle to **Work**.
 
-1. In the **Ask me anything...** text box, copy and paste the prompt: 
+1. In the **Message Copilot** text box, copy and paste the prompt: 
 
     ```text
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
@@ -39,7 +39,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. Select the **Submit** button.
 
-1. In the **Ask me anything...** text box, copy and paste or type: 
+1. In the **Message Copilot** text box, copy and paste or type: 
 
     ```text
     Can you summarize the last five emails from “/”.
@@ -59,7 +59,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. Select **Submit**.
 
-1. **Optional:** In the **Ask me anything...** text box, copy and paste the prompt:
+1. **Optional:** In the **Message Copilot** text box, copy and paste the prompt:
 
     ```text
     Can you summarize the last five emails from my boss? To be specific, look for the last five emails from my boss over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
@@ -67,7 +67,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
     Then select **Submit**.
 
-1. **Optional:** In the **Ask me anything...*" text box, copy and paste the prompt:
+1. **Optional:** In the **Message Copilot*" text box, copy and paste the prompt:
 
     ```text
     Review my meetings this week and create 5-7 categories that describe how I am spending my time. For each category, provide a short description and give me an approximate percentage of time I spent there.
