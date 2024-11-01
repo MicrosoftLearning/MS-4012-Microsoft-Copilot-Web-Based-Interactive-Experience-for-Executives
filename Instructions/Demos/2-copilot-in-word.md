@@ -60,7 +60,7 @@ In this demo, we will take the documents we just created and transform them toge
     Remove the "Market Research" section and add a "Competitive Landscape" section. Ensure the content is concise and aligns with the overall tone of the document.
     ```
 
-    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Allfiles/Demo%20Sample%20Docs/ContosoLearn_Example_Word_Output.docx).
+    > **NOTE:** If Copilot for Word is not cooperating with you, you can use the following link to access the generated document: [**ContosoLearn Example Word Output**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/ContosoLearn%20Example%20Word%20Output%20(not%20to%20be%20used).docx).
 
 ## Optional Demo Steps
 

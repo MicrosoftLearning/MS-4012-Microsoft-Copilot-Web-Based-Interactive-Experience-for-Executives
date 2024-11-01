@@ -37,7 +37,7 @@ Copilot was able to make assumptions and draw connections between bits of knowle
 
 1. Sign into a non-work microsoft account.
 
-    > **NOTE:** If you sign into your work account, you will  redirected to Business chat (Copilot.Cloud.Microsoft.com) 
+    > **NOTE:** If you sign into your work account, you will  redirected to Business chat (m365.cloud.microsoft/chat) 
 
 1. In the **Message Copilot** text box, copy and paste the prompt from the prompt library documents or type:
 
