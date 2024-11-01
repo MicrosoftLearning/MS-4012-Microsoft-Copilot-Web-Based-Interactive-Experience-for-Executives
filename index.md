@@ -4,7 +4,9 @@ permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# MS-4012: Microsoft Copilot interactive experience for executives 
+
+## Content Directory
 
 The demos for this course are based on the demos from the accelerator kit [Demo Guide and Talking Points.docx](https://microsoft.seismic.com/Link/Content/DCJC9CXBThjcFGfJjJXMQ2jXqfCG).
 
