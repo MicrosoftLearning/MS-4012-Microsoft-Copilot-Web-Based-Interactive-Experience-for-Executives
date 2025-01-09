@@ -106,7 +106,7 @@ First download the following: [**What is this image.png**](https://github.com/Mi
 
 1. Start a new topic, by clicking **view history** and then **Start new chat**.
 
-1. At the bottom of the page, select the Plus (**+**) icon.
+1. At the bottum of the page, select the Plus (**+**) icon.
 
 1. Browse to where you downloaded the image, select **What is this picture.png**, and then select **Open**.
 1. In the **Message Copilot…** text box type the prompt:
