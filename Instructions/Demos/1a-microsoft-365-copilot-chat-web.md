@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Microsoft 365 Copilot Chat (Web only)
+    title: 'Demo: Microsoft 365 Copilot Chat (Web only)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
