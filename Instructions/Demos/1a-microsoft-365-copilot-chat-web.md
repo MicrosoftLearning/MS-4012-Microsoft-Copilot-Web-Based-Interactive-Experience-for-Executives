@@ -9,7 +9,7 @@ demo:
 
 ## **Copilot Chat: Unlock Insights and Drive Strategy**
 
-Microsoft 365 Copilot Chat offers secure, enterprise-ready AI powered by GPT-4, enabling you to streamline your workflow and make data-driven decisions in a consistent and familiar interface.
+Microsoft 365 Copilot Chat offers secure, enterprise-ready AI, enabling you to streamline your workflow and make data-driven decisions in a consistent and familiar interface.
 
 **Scenario:**  
 You work in business planning for an EV charging company and are developing a strategic plan for the upcoming year. Using Copilot Chat, you can combine research from the web with insights from your sales data to identify trends and make informed decisions.
