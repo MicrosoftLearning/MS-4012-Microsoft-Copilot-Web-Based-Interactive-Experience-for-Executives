@@ -32,7 +32,7 @@ Let’s start by asking Copilot to research a key metric. In the **Copilot Chat*
 What is the ratio of EV cars to EV chargers by region in the US for the past 3 years? Please show it in a table organized by region.
 ```
 
-![Screenshot showing Copilot Chat EV charger Prompt.](../Demos/copilot-chat-ev-charger-prompt.png)
+![Screenshot showing Copilot Chat EV charger Prompt.](../Demos/Media/copilot-chat-ev-charger-prompt.png)
 
 Copilot Chat can analyze publicly available data, helping you understand key trends like EV adoption by region.
 
@@ -48,7 +48,7 @@ Now let’s compare national trends to your company’s sales performance. You�
    ```
 2. Select **Add Content** and upload [**Charger_sales_report_2022-2024.xlsx**](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Unlocked/raw/master/Resourcefiles/Charger_sales_report_2022-2024.xlsx).
 
-    ![add content copilot chat.](../Demos/add-content-copilot-chat.png)
+    ![add content copilot chat.](../Demos/Media/add-content-copilot-chat.png)
 
 Copilot securely integrates with your data, providing visualizations and insights directly within your workflow.
 

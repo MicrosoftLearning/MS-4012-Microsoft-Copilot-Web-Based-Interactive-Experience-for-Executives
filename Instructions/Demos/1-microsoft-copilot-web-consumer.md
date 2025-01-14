@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Microsoft Copilot (copilot.microsoft.com)'
+    title: 'Demo: Microsoft Copilot (consumer/non-m365 account)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
