@@ -1,11 +1,11 @@
 ---
 demo:
-    title: 'Demo: Business Chat'
+    title: 'Demo: Microsoft 365 Copilot Chat (Work Tab)'
 ---
 
 [Back to Index](https://microsoftlearning.github.io/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/)
 
-# Business Chat (Work Scope)
+# Microsoft 365 Copilot Chat (Work Tab)
 
 ## Demo Setup
 
@@ -15,7 +15,7 @@ In the prompts below, you will reference a person who you do not share confident
 
 ## Talking Points
 
-"Within Business Chat running within the work scope, Copilot uses Microsoft 365 security to protect your data and runs all its services inside your organization’s compliance boundary.
+"In Microsoft 365 Copilot Chat with the work tab selected, Copilot uses Microsoft 365 security (EDP) to protect your data and runs all its services inside your organization’s compliance boundary.
 
 Here, in the work scope, we’re enhancing Copilot with information from the Microsoft Graph. Let’s start with some basic knowledge management. Finding out where and from whom I can get information is a perennial knowledge management challenge. Let’s see who in my organization can tell me about grounding and LLMs.
 
@@ -31,7 +31,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. In the top center, switch the toggle to **Work**.
 
-1. In the **Message Copilot** text box, copy and paste the prompt: 
+1. In the **Ask me anything...** text box, copy and paste the prompt: 
 
     ```text
     What is "grounding" for an LLM and how does it work? If I wanted to know more about it, who would be able to help me?
@@ -39,7 +39,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. Select the **Submit** button.
 
-1. In the **Message Copilot** text box, copy and paste or type: 
+1. In the **Ask me anything...** text box, copy and paste or type: 
 
     ```text
     Can you summarize the last five emails from “/”.
@@ -59,7 +59,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
 1. Select **Submit**.
 
-1. **Optional:** In the **Message Copilot** text box, copy and paste the prompt:
+1. **Optional:** In the **Ask me anything...** text box, copy and paste the prompt:
 
     ```text
     Can you summarize the last five emails from my boss? To be specific, look for the last five emails from my boss over the last few days and stack rank them in order of most important to least important, based on your analysis of the contents.
@@ -67,7 +67,7 @@ We’re always looking at prompts and finding ways to improve how Copilot works 
 
     Then select **Submit**.
 
-1. **Optional:** In the **Message Copilot*" text box, copy and paste the prompt:
+1. **Optional:** In the **Ask me anything...*" text box, copy and paste the prompt:
 
     ```text
     Review my meetings this week and create 5-7 categories that describe how I am spending my time. For each category, provide a short description and give me an approximate percentage of time I spent there.
