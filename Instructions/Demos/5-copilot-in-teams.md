@@ -13,7 +13,7 @@ To ensure a smooth demo, choose one of the following setup options:
 
 **Option A: Meeting Recap**
 
-The demo setup instructions for this option can be found [here](https://microsoft.seismic.com/Link/Content/DCFPQWmT2DMXC8WJjgjP4H44GWXG). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we will reference in the demo below.
+The demo setup instructions for this option can be found [here](https://github.com/MicrosoftLearning/MS-4012-Microsoft-Copilot-Web-Based-Interactive-Experience-for-Executives/raw/refs/heads/master/Resourcefiles/Copilot_Demo_Guidance_Prep_Session.docx). Specifically, refer to pages 5-10, which cover how to set up the Teams meeting (Project Avalon) we will reference in the demo below.
 
 > **IMPORTANT:**
 > - The Option A demo setup will require at least 4 people (optionally 6).
